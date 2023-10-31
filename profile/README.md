@@ -12,6 +12,9 @@
 
 - [Informa Iberent API](https://github.com/Iberent/scoring-service)
 
+#### Logging service
+
+- [Log using Iberent LogServiceClient](https://github.com/Iberent/log-service)
 
 ### Frontend Apps
 
